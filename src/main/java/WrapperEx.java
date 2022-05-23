@@ -6,7 +6,7 @@ public class WrapperEx {
             System.out.println(c1+"은 숫자");
         if (Character.isAlphabetic(c2))
             System.out.println(c2+"는 영문자");
-        
+
         System.out.println(Integer.parseInt("-123"));
         System.out.println(Integer.toHexString(28));
         System.out.println(Integer.toBinaryString(28));
